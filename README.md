@@ -9,7 +9,7 @@
 💻 I know Python, Java, JavaScript  
 🛡️ Interested in Web Security & Bug Bounty  
 🌱 Currently learning Advanced Web Security  
-📫 Reach me: yourmail@gmail.com  
+📫 Reach me: amanalingesw@gmail.com  
 
 ---
 
