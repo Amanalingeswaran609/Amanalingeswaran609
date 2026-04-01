@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aman</h1>
+<h1 align="center">Hi 👋, I'm Amanalingeswaran</h1>
 <h3 align="center">Cybersecurity Student | Developer | Bug Bounty Learner</h3>
 
 ---
